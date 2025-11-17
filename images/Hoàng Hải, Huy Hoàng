@@ -2,6 +2,14 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
+</html> 
+  <head>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <img src="images/ChatGPT_Images.png" alt="hình đại diện" width="120" height="180">
+  </body>
+</html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Giới thiệu bản thân</title>
     <style>
