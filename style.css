@@ -4,11 +4,8 @@
      height: 100vh;
 }
 .header{
-     padding: 0px;
-     margin: 0px;
      flex: 15%;
-     background: url("images/file_00000000f7fc71fa9948ead373542811.png") center/100% 100% no-repeat;
-    background-color: pink;
+     background-color: pink;
 }
 .menu{
      flex: 5%;
