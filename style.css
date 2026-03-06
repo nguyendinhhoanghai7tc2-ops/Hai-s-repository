@@ -4,7 +4,10 @@
      height: 100vh;
 }
 .header{
+     padding: 0px;
+     margin: 0px;
      flex: 15%;
+     background: url(images/Thptngoquyen
     background-color: pink;
 }
 .menu{
