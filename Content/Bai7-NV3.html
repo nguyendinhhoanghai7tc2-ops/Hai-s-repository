@@ -3,6 +3,14 @@
     <meta charset="utf-8">                   
   </head>
   <body>
+    <p id="kq"> </p>
+    <script>
+     let pp = new URLSearchparams(window.location.search);
+     let ten = pp.get("txtTen");
+     let yk = pp.get("txtComment");
+     document.getElementById("kq").innerHTML="Cảm ơn bạn" + ten
+      + " đã góp ý<br><br>Chúng tôi xin nhận ý kiến của bạn như sau:<br>"+yk;
+    </script>
     <p> Cảm ơn bạn đã góp ý kiến</p>
     <p> Chúng tôi sẽ ghi nhận ý kiến của bạn và sẽ cải tiến, nâng cao chất lượng phục vụ trong thời gian tới</p>
   </body>
